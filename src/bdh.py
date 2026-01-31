@@ -1,3 +1,4 @@
+""" FORKED FROM https://github.com/pathwaycom/bdh - EXACT MODEL ARCHITECTURE """
 # Copyright 2025 Pathway Technology, Inc.
 
 import dataclasses
